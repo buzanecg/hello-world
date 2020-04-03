@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'suzanawebappgithubactions'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_ba6bde0beb8e4b5eb22a30715c45484d }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_43e14a1a88a94bb3a72e3e691743b7ac }}
         package: .
